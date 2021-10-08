@@ -54,8 +54,8 @@
 	<distributionManagement>
    		<repository>
     		<id>github</id>
-    		<name>GitHub 3r1co Apache Maven Packages</name>
-    		<url>https://maven.pkg.github.com/3r1co/CrudService</url>
+    		<name>GitHub M4jor-Tom Apache Maven Packages</name>
+    		<url>https://maven.pkg.github.com/M4jor-Tom/CrudService</url>
     	</repository>
 	</distributionManagement>
 
