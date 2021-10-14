@@ -12,8 +12,8 @@
 	<groupId>com.M4jor-Tom</groupId>
 	<artifactId>crudity</artifactId>
 	<version>0.0.22</version>
-	<name>CrudService</name>
-	<description>Crud service interface</description>
+	<name>Crudity</name>
+	<description>Crud classes</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
