@@ -28,6 +28,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.M4jor-Tom</groupId>
+			<artifactId>jpa-entitor</artifactId>
+			<version>0.0.31</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/dependencies/JpaEntitor-0.0.31.jar</systemPath>
+		</dependency>
 	</dependencies>
 
 	<build>
