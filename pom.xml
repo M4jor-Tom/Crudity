@@ -41,7 +41,7 @@
    		<repository>
     		<id>github</id>
     		<name>GitHub M4jor-Tom Apache Maven Packages</name>
-    		<url>https://maven.pkg.github.com/M4jor-Tom</url>
+    		<url>https://maven.pkg.github.com/M4jor-Tom/Crudity</url>
     	</repository>
 	</distributionManagement>
 
