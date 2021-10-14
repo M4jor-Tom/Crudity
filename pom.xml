@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.M4jor-Tom</groupId>
 	<artifactId>crudity</artifactId>
-	<version>0.0.21</version>
+	<version>0.0.22</version>
 	<name>CrudService</name>
 	<description>Crud service interface</description>
 	<properties>
@@ -36,6 +36,14 @@
 			<systemPath>${basedir}/dependencies/JpaEntitor-0.0.31.jar</systemPath>
 		</dependency>
 	</dependencies>
+	
+	<distributionManagement>
+   		<repository>
+    		<id>github</id>
+    		<name>GitHub M4jor-Tom Apache Maven Packages</name>
+    		<url>https://maven.pkg.github.com/M4jor-Tom</url>
+    	</repository>
+	</distributionManagement>
 
 	<build>
 		<plugins>
